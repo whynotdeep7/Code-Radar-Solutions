@@ -7,7 +7,7 @@ char* welcome() {
 int main() {
     int num;
     scanf("%d \n",&num);
-    pribtf("%d \n",num);
+    printf("%d \n",num);
     return 0;
-    
+
 }
