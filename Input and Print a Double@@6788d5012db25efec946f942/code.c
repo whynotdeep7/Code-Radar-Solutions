@@ -7,5 +7,5 @@ char* welcome() {
 int main() {
     double num;
     scanf("%lf ",&num);
-    print("%lf ",num);
+    printf("%lf ",num);
 }
