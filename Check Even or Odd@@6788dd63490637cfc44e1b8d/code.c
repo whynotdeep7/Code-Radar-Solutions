@@ -7,9 +7,9 @@ int main() {
 
     // Check even or odd
     if (num % 2 == 0) {
-        printf("%d Even\n", num);
+        printf("Even\n");
     } else {
-        printf("%d Odd\n", num);
+        printf("Odd\n");
     }
 
     return 0;
