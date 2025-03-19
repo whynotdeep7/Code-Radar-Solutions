@@ -9,7 +9,7 @@ int main() {
     if (num % 2 == 0) {
         printf("%d Even\n", num);
     } else {
-        printf("%dOdd\n", num);
+        printf("%d Odd\n", num);
     }
 
     return 0;
